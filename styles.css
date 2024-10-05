@@ -1,0 +1,28 @@
+*{
+    box-sizing: border-box;
+    background-color: black;
+}
+body {
+    color:aqua;
+}
+#navbar {
+    position:fixed;
+    min-width: 290px;
+    top:auto;
+}
+code {
+    display: block;
+    text-align: center;
+    color:red;
+
+}
+
+section{
+    color: red;
+}
+#navbar header {
+    font-style: italic;
+}
+@media screen {
+    
+}
